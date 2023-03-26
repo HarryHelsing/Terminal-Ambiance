@@ -1,3 +1,8 @@
 First attempt at terminal animation.  
 Small plant grows, explodes firing seed into air, then the seed regrows into the plant again.  
 This is a basic animation to test the concept of terminal animation.  
+
+## Comments
+
+Future animations will be wider,
+perhaps taking the full screen width
