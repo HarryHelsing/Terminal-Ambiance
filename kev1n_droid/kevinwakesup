@@ -1,0 +1,26 @@
+Decompiling plain_2468.1.1
+Reading program systems... Done
+Systems found: Plain_Man_NPC Plain.Drive
+plain_system_privileges plain_analysis_repository
+Do you wish to continue? [Y/n] y
+Removing Plain_Man_NPC
+Removing Plain.Drive
+subdrives found: Removing kevin_sleep
+maintain_reality admin_withhold
+Removing plain_system_privileges
+Removing plain_analysis_repository
+
+Decompiling kevin_reality_8731.49.4
+Reading program systems... Done
+Systems found: kevin_memories kevin_movie_imagedata
+reality_system CPU_allocation_manager
+auto_RAM_manager NPC_manager plainman_integration
+Removing kevin_memories
+Removing kevin_movie_imagedata
+Removing reality_system
+Removing CPU_allocation_manager
+Removing auto_RAM_manager
+Removing NPC_manager
+Removing plainman_integration
+
+Sensory data enabled... Done
